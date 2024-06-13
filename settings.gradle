@@ -8,3 +8,5 @@ plugins {
 
 includeBuild '../formula'
 includeBuild '../feature-model'
+
+includeBuild '../formula-analysis-sat4j'
